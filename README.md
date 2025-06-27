@@ -41,6 +41,13 @@ spam-detector/
 ├── requirements.txt # Python dependencies
 └── README.md # You're reading it!
 
+📚 Dataset Used
+SMS Spam Collection Dataset
+UCI / Kaggle: View Dataset
+
+👨‍💻 Author
+Soham Ray
+Built with ❤️ using Python and ML.
 
 
 # spam-detector-ai
