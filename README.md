@@ -30,4 +30,17 @@ A smart and simple **Spam Detection System** built using Machine Learning, with 
 
 ## 🗂 Project Structure
 
+spam-detector/
+├── app.py # Streamlit web app
+├── gui_app.py # Tkinter desktop app
+├── spam_detector.py # Core model training script
+├── spam_model.pkl # Saved ML model
+├── vectorizer.pkl # Saved text vectorizer
+├── spam.csv # Dataset (SMS messages)
+├── icon.ico # (Optional) App icon
+├── requirements.txt # Python dependencies
+└── README.md # You're reading it!
+
+
+
 # spam-detector-ai
